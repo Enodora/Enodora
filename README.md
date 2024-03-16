@@ -1,8 +1,8 @@
 Hi, I’m Atsuhiro
 
-I make games as Enodora and I am a University Student
+I am a University Student who make games as Enodora
 
-- Institution: The University Of British Columbia
+- Institution: The University of British Columbia
 - I’m mainly use Unity to make games
 - Reach me at enodora1019@gmail.com
 - Pronouns: He/Him 
